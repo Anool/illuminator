@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2013-03-15 BZR 4003)-stable date = 01-Jun-13 11:55:14 AM
+
+BeginCmp
+TimeStamp = /51A0AAAD;
+Reference = C1;
+ValeurCmp = 100nF/63V;
+IdModule  = CP_5x11mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09D50;
+Reference = C2;
+ValeurCmp = 10nF/63V;
+IdModule  = cnp_7.5mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09B84;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09B91;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09B97;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09B9D;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BA3;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BA9;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BAF;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BB5;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BBB;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BC1;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BC7;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09BCD;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09C5E;
+Reference = P1;
+ValeurCmp = 48V_DC;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51A09C36;
+Reference = R1;
+ValeurCmp = 470E/0.5W;
+IdModule  = RC03;
+EndCmp
+
+EndListe
